@@ -1,6 +1,5 @@
 /*
-		Abdullah Gunay 19075
-		Homework 6
+	Creator: Abdullah Gunay 
 */
 #include <iostream>
 #include <string>
